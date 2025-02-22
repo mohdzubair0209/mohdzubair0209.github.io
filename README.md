@@ -12,7 +12,7 @@
 - Finance & Accounting Bachelor of Commerce | Aligarh Muslim University | Aligarh, Uttar Pradesh
 
 ## Work Experience
-** Management Trainee @ GENPACT (_June 2019 - Presemt)**
+**Management Trainee @ GENPACT (_June 2019 - Presemt)**
 - Team Leadership and Management: Led and managed a team of 09 users responsible for vendor posting and vendor reconciliation in the North American & Canadian markets. Share daily productivity
 reports with management, ensuring transparency and accountability.
 - Operational Efficiency: Maintain Turnaround Time (TAT) within agreed Service Level Agreements
@@ -30,7 +30,29 @@ Indicators (KPIs) indicators to drive team success.
 - Employee Development: Conduct monthly one-on-one meetings with subordinates to provide
 feedback, discuss issues, and develop action plans in alignment with company policies.
 
-*Technical Team Member @ IEEE Computer Society (ZHCET) (_November 2023 - June 2024)*
-- Contributed to various Machine Learning projects for the organization.
-- Conducted research and literature reviews in deep learning, computer vision, and natural language processing.
-- Assisted in organizing workshops, seminars, and events related to computer science and technology
+**Senior Practitioner in Account Payable @ IBM India Pvt Ltd (_April 2016 - June 2019)**
+- Publish daily process health metrics to the internal management.
+- Monthly Critical/Import & Export Vendor reconciliations.
+- Vendor Payments (Cash forecasting, Duplicate Audit, AP Open Items Clearance, Creation & Release EFT).
+- Lead the invoice and payment processing (Checks & EFT/ACH) activities.
+- Run GRIN report (To capture maximum discount & writing off old POs).
+- Handling discrepancies and queries of clients through emails and calls.
+- Processed Vendor PO based Invoices & Non-PO based invoices within the agreed timelines.
+- Managing escalation of AP Helpdesk agents via calls and emails.
+- Publish Hold invoice report & Escalation matrix for better control.
+
+**Accounts Payable Process Developer @ GENPACT (_January 2014 - April 2016)**
+- Vendor PO invoice & Non-invoice Processing.
+- Maintenance of Supplier Account database, new supplier setup/update.
+- Vendor Reconciliation and quality controls to update the Supplier and the management for the outstanding balances as of date.
+- Maintain Vendor Relationships with Timely Payments.
+- Manage relationships with clients and handle escalations for quick resolution.
+- Achieved operational efficiencies & targets.
+- Ensure a high level of quality deliverables & customer satisfaction.
+- Mentoring and ensuring process training of new hire.
+
+## Achievements and Activities
+- Won Silver Award as a Client appreciation in Accounts Payable in Genpact.
+- 6 times won Bronze Award for excellent work in Accounts Payable in Genpact.
+- Won Rising Star for the m/o SEPT-2018 for excellent work in Accounts Payable in IBM.
+- Participated in the Cluster-XII Volley Ball Tournament organized by the Union Ministry of Human Resource Development, Govt. of India in 2006-07 .
