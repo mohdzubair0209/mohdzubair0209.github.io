@@ -12,25 +12,18 @@
 - Finance & Accounting Bachelor of Commerce | Aligarh Muslim University | Aligarh, Uttar Pradesh
 
 ## Work Experience
-**Management Trainee @ GENPACT (_June 2019 - Presemt)**
+**Management Trainee @ GENPACT (_June 2019 - Present_)**
 - Team Leadership and Management: Led and managed a team of 09 users responsible for vendor posting and vendor reconciliation in the North American & Canadian markets. Share daily productivity
 reports with management, ensuring transparency and accountability.
-- Operational Efficiency: Maintain Turnaround Time (TAT) within agreed Service Level Agreements
-(SLA) to meet key Accounts Payable (AP) metrics such as Disbursement Timeliness & Accuracy.
-- Reporting and Analysis: Prepare monthly reports and analyses on SLA metrics, providing insights
-for continuous improvement and decision-making.
-- Stakeholder Management: Act as the primary escalation point of contact for business stakeholders,
-addressing concerns and fostering positive relationships.
-- Project Coordination: Coordinate with multiple teams to drive projects and initiatives aimed at
-process improvement and operational excellence.
-- Compliance and Audit: Ensure sufficient SOX controls are in place and facilitate smooth audits,
-resolving any audit findings promptly to maintain compliance.
-- Performance Management: Set goals, monitor performance, and assist in achieving Key Performance
-Indicators (KPIs) indicators to drive team success.
-- Employee Development: Conduct monthly one-on-one meetings with subordinates to provide
-feedback, discuss issues, and develop action plans in alignment with company policies.
+- Operational Efficiency: Maintain Turnaround Time (TAT) within agreed Service Level Agreements (SLA) to meet key Accounts Payable (AP) metrics such as Disbursement Timeliness & Accuracy.
+- Reporting and Analysis: Prepare monthly reports and analyses on SLA metrics, providing insights for continuous improvement and decision-making.
+- Stakeholder Management: Act as the primary escalation point of contact for business stakeholders, addressing concerns and fostering positive relationships.
+- Project Coordination: Coordinate with multiple teams to drive projects and initiatives aimed at process improvement and operational excellence.
+- Compliance and Audit: Ensure sufficient SOX controls are in place and facilitate smooth audits, resolving any audit findings promptly to maintain compliance.
+- Performance Management: Set goals, monitor performance, and assist in achieving Key Performance Indicators (KPIs) indicators to drive team success.
+- Employee Development: Conduct monthly one-on-one meetings with subordinates to provide feedback, discuss issues, and develop action plans in alignment with company policies.
 
-**Senior Practitioner in Account Payable @ IBM India Pvt Ltd (_April 2016 - June 2019)**
+**Senior Practitioner in Account Payable @ IBM India Pvt Ltd (_April 2016 - June 2019_)**
 - Publish daily process health metrics to the internal management.
 - Monthly Critical/Import & Export Vendor reconciliations.
 - Vendor Payments (Cash forecasting, Duplicate Audit, AP Open Items Clearance, Creation & Release EFT).
@@ -41,7 +34,7 @@ feedback, discuss issues, and develop action plans in alignment with company pol
 - Managing escalation of AP Helpdesk agents via calls and emails.
 - Publish Hold invoice report & Escalation matrix for better control.
 
-**Accounts Payable Process Developer @ GENPACT (_January 2014 - April 2016)**
+**Accounts Payable Process Developer @ GENPACT (_January 2014 - April 2016_)**
 - Vendor PO invoice & Non-invoice Processing.
 - Maintenance of Supplier Account database, new supplier setup/update.
 - Vendor Reconciliation and quality controls to update the Supplier and the management for the outstanding balances as of date.
